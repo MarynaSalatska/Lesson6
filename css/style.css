@@ -1,0 +1,124 @@
+body {
+  font-family: "Lato";
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0 auto;
+}
+.zero {
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+h1 {
+  text-align: justify;
+  font-family: "Lato";
+  font-size: 34px;
+  font-weight: 900;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 24px ;
+}
+.title {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  margin-bottom: 34px;
+  border: 3px solid transparent;
+  border-radius: 10px;
+  background: linear-gradient(to right,rgba(22, 135, 201, 0.913),rgb(238, 246, 4));
+  margin: 0 auto;
+}
+
+div .first {
+  margin: 0 auto;
+  font-weight: 700;
+  margin-bottom: 24px;
+  text-align: justify;
+}
+.second {
+  margin: 0 auto;
+  text-align: justify;
+  margin-bottom: 24px;
+}
+
+.third {
+  margin: 0 auto;
+  margin-bottom: 44px;
+}
+
+.fourth {
+  margin: 0 auto;
+  list-style: lower-alpha;
+  text-align: left;
+  padding-left: 64px;
+  margin-bottom: 44px;
+  font-weight: 700;
+}
+
+.fifth {
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+
+ul {
+  list-style: lower-alpha;
+  text-align: left;
+  padding-left: 44px;
+  margin-bottom: 44px;
+  line-height: 1.8;
+}
+.last {
+  margin-bottom: 44px;
+}
+
+footer {
+  text-transform: uppercase;
+  font-family: "Lato";
+  font-size: 18px;
+  font-weight: 400;
+}
+
+footer span {
+  font-family: "Lato";
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.sample {
+  border: 5px double bisque;
+  margin: 0 auto;
+  overflow: scroll;
+  margin-bottom: 40px;
+}
+
+.sample > img {
+border-radius: 99% 1% 100% 0% / 30% 0% 100% 70%;
+display: block;
+margin: 0 auto;
+}
+.sample h2{
+  margin: 0 auto;
+  text-decoration: underline;
+}
+
+.sample p{
+  text-align: center;
+}
+
+img.tanzania {
+  display: block;
+  border-radius: 28% 72% 76% 24% / 63% 64% 36% 37%;
+  box-shadow: 10px 10px 10px 10px rgb(205, 155, 155);
+  opacity: 0.8;
+}
+.hid {
+margin-bottom: 40px;
+visibility: hidden;
+}
+
+img.image {
+  display: block;
+  margin: 0 auto;
+  border: 1px dotted green;
+  border-radius: 10px;
+  box-shadow: 5px 3px 4px 5px rgb(203, 242, 27);
+}
